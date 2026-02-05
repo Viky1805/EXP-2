@@ -63,6 +63,8 @@ contract Crowdfunding {
 # Expected Output:
 Users can contribute ETH to the campaign.
 
+<img width="1919" height="1083" alt="image" src="https://github.com/user-attachments/assets/e27a9b47-98e4-43d0-b1c0-81a9b914f05b" />
+
 
 If the goal is met, the creator can withdraw funds.
 
